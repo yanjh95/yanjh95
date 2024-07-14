@@ -4,10 +4,15 @@
 
 Electrical and Systems Engineer with experience in designing and implementing electrical systems for electric vehicles
 
-Skills: Embedded C / MCUs / Altium / PCB Design / Electronics
+Skills: 
+- Embedded C
+- MCUs
+- Altium
+- PCB Design
+- Electronics
+- Wire Harness: https://github.com/yanjh95/Wire-Harness
 
 My Projects:
-- Wiring Harness
 - Raspberry Pi Automation
 - Sensor Board(Schematic->Layout->Firmware)
 - 🔭 I’m currently working on this page. 
