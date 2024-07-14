@@ -5,6 +5,7 @@
 Electrical and Systems Engineer with experience in designing and implementing electrical systems for electric vehicles
 
 Skills: Embedded C / MCUs / Altium / PCB Design / Electronics
+
 My Projects:
 - Wiring Harness
 - Raspberry Pi Automation
