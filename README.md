@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Yan Jie Hui
+#### Electrical Engineer
+![Electrical Engineer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Felectronic%2F&psig=AOvVaw0fLJ0zmCye2Wq_Q82-Fm-T&ust=1721077350446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCX0_O2p4cDFQAAAAAdAAAAABAh)
 
-<!--
-**yanjh95/yanjh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Systems Engineer with experience in designing and implementing electrical systems for vehicle manufacturing
 
-Here are some ideas to get you started:
+Skills: Embedded C / MCUs / Altium / PCB Design / Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
