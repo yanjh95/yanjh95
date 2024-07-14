@@ -1,6 +1,6 @@
 ### Hi there 👋, Yan Jie Hui
 #### Electrical Engineer
-![Electrical Engineer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Felectronic%2F&psig=AOvVaw0fLJ0zmCye2Wq_Q82-Fm-T&ust=1721077350446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCX0_O2p4cDFQAAAAAdAAAAABAh)
+![Electrical Engineer](https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 Electrical and Systems Engineer with experience in designing and implementing electrical systems for vehicle manufacturing
 
