@@ -6,15 +6,15 @@ Electrical and Systems Engineer with experience in designing and implementing el
 
 Skills: 
 - Embedded C
-- MCUs
-- Altium
+- Schematic Capture
 - PCB Design
-- Electronics
 - Wire Harness: https://github.com/yanjh95/Wire-Harness
+- 3d printing
 
 My Projects:
 - Raspberry Pi Automation
-- Sensor Board(Schematic->Layout->Firmware)
+- Sensor Board V1(Schematic->Layout->Firmware)
+- Sensor Board V2
 - 🔭 I’m currently working on this page. 
 
 
